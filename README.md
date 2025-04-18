@@ -28,8 +28,6 @@ brew install ffmpeg
 
 #### 注意
 
-截取音频时用到了mediainfo，在使用脚本之前先执行 mediainfo.install.sh
+截取视频时用到了 `mediainfo`，在使用脚本之前先执行 `mediainfo.install.sh`
 
 此为mac系统安装脚本，其他系统安装请移步至 [MediaArea/MediaInfo](https://github.com/MediaArea/MediaInfo) 与 [macPorts](https://guide.macports.org/#installing.shell)
-
-安装成功之后再执行脚本
